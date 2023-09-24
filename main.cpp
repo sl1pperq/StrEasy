@@ -1,5 +1,5 @@
 #include <iostream>
-#include "str_easy.h"
+#include "files/str_easy.h"
 using namespace std;
 
 int main() {
